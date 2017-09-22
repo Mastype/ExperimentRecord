@@ -56,12 +56,12 @@ python 小波变换库 Pywalvets。[Pywalvets 学习笔记](http://blog.csdn.net
 
 使用S&P500 进行的预测
 
-####LSTM： 
+####LSTM [Predict_LSTM.py]()： 
 MSE为 0.000845
  
 图![pic](ResultImg/Result.png)
 
-####WLSTM:
+####WLSTM [Predict_WLSTM.py]():
 MSE为 0.000242
 
 图![pic2](ResultImg/Result_WLSTM.png) 
